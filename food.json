@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Chicken curry",
+    "calories": 110,
+    "protiens": 15,
+    "carbohydrates": 5,
+    "fat": 4,
+    "fiber": 2,
+    "imageUrl": "http://maunikagowardhan.co.uk/wp-content/uploads/2016/07/Nadan-Chicken-Perelan.jpg"
+  },
+  {
+    "name": "paneer tikka",
+    "calories": 200,
+    "protiens": 10,
+    "carbohydrates": 8,
+    "fat": 12,
+    "fiber": 3,
+    "imageUrl": "https://i0.wp.com/vegecravings.com/wp-content/uploads/2018/04/Paneer-Tikka-Recipe-Step-By-Step-Instructions.jpg?fit=2324%2C1944&quality=30&strip=all&ssl=1"
+  },
+  {
+    "name": "dal tadka",
+    "calories": 90,
+    "protiens": 8,
+    "carbohydrates": 12,
+    "fat": 3,
+    "fiber": 4,
+    "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.vC-_CxuFhC1YHcdBhPDkjQHaF8&pid=Api&P=0&h=180"
+  },
+  {
+    "name": "aloo gobhi",
+    "calories": 80,
+    "protiens": 2,
+    "carbohydrates": 15,
+    "fat": 1,
+    "fiber": 5,
+    "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.UrqLVDNUOMpe7mUFuconfgHaE7&pid=Api&P=0&h=180"
+  },
+  {
+    "name": "chana masala",
+    "calories": 120,
+    "protiens": 6,
+    "carbohydrates": 18,
+    "fat": 5,
+    "fiber": 6,
+    "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.5CAQFP_xL48i9PMa7J8NGgHaFj&pid=Api&P=0&h=180"
+  },
+  {
+    "name": "veg biryani",
+    "calories": 160,
+    "protiens": 5,
+    "carbohydrates": 20,
+    "fat": 7,
+    "fiber": 3,
+    "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.jusOoGSVQnvstGJxrwr7BgHaFj&pid=Api&P=0&h=180"
+  },
+  {
+    "name": "veg salaad",
+    "calories": 80,
+    "protiens": 10,
+    "carbohydrates": 3,
+    "fat": 2,
+    "fiber": 5,
+    "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.m7Oj_XLjevITQtx_l6x3nAHaE8&pid=Api&P=0&h=180"
+  },
+  {
+    "name": "mushroom curry",
+    "calories": 115,
+    "protiens": 10,
+    "carbohydrates": 6,
+    "fat": 3,
+    "fiber": 2,
+    "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.jcaWHXIo0YMV5RDR4NtY2AHaE7&pid=Api&P=0&h=180"
+  },
+  {
+    "name": "dal butter fry",
+    "calories": 100,
+    "protiens": 30,
+    "carbohydrates": 3,
+    "fat": 8,
+    "fiber": 1,
+    "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.pAzf4by2J8GN3tnF-gAzFQHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "name": "fish kalia",
+    "calories": 90,
+    "protiens": 20,
+    "carbohydrates": 15,
+    "fat": 10,
+    "fiber": 4,
+    "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.WRJgXD4_lKzyfd7ffKiR7wHaE6&pid=Api&P=0&h=180"
+  },
+  {
+    "name": "paneer do pyaza",
+    "calories": 70,
+    "protiens": 12,
+    "carbohydrates": 4,
+    "fat": 5,
+    "fiber": 1,
+    "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.r4rt6gYcm84RnjCZw4L-cgHaE6&pid=Api&P=0&h=180"
+  },
+  {
+    "name": "Rajma masala",
+    "calories": 80,
+    "protiens": 10,
+    "carbohydrates": 8,
+    "fat": 4,
+    "fiber": 2,
+    "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.0VI98prIxykIE9MErZHSMQHaEK&pid=Api&P=0&h=180"
+  }
+]
